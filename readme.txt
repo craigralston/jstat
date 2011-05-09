@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: ramoonus
 Donate link: http://www.ramoonus.nl
-Tags: jquery, jquery mobile, mobile, javascript
+Tags: jquery, statistics
 Requires at least: 3.0.0
 Tested up to: 3.2
 Stable tag: 1.0.0
