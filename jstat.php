@@ -5,11 +5,10 @@ Plugin URI: http://www.ramoonus.nl/wordpress/jstat/
 Description: This plugin installs jStat and required jQuery plugins to your installation.
 Version: 1.0.0
 Author: Ramoonus
-Author URI: http://www.ramoonus.nl
+Author URI: http://www.ramoonus.nl/
 License: GPL2
 */
-?>
-<?php
+
 // Install jStat prerequirements
 function jstat_preq() {
 		// load prereq. (jQ and jQ UI)
