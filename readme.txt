@@ -24,5 +24,8 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.0.1 =
+* Removed Flot from jStat, is now a separate plugin
+
 = 1.0 =
 * First version. Based on jStat 0.1.0 and Flot 0.7.0
