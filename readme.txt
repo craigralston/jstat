@@ -4,7 +4,7 @@ Donate link: http://www.ramoonus.nl
 Tags: jquery, statistics
 Requires at least: 3.0.0
 Tested up to: 3.2
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 
 This plugin installs jStat and required jQuery plugins to your installation.
 == Description ==
