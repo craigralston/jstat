@@ -1,10 +1,10 @@
 === Plugin Name ===
 Contributors: ramoonus
-Donate link: http://www.ramoonus.nl
-Tags: jquery, statistics
+Donate link: http://www.ramoonus.nl/donate/
+Tags: jquery, statistics, javascript, stats, matlab, adopt-me
 Requires at least: 3.0.0
-Tested up to: 3.2
-Stable tag: 1.0.1
+Tested up to: 3.9.1
+Stable tag: 1.0.4
 
 This plugin installs jStat and required jQuery plugins to your installation.
 == Description ==
@@ -24,6 +24,9 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.0.4 =
+* Updated to jStat 0.0.4 (7-2014)
+
 = 1.0.1 =
 * Removed Flot from jStat, is now a separate plugin
 
