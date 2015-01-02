@@ -2,9 +2,9 @@
 Contributors: ramoonus
 Donate link: http://www.ramoonus.nl/donate/
 Tags: jquery, statistics, javascript, stats, matlab, adopt-me
-Requires at least: 3.0.0
-Tested up to: 3.9.1
-Stable tag: 1.0.4
+Requires at least: 3.9
+Tested up to: 4.1
+Stable tag: 1.0.10
 
 This plugin installs jStat and required jQuery plugins to your installation.
 == Description ==
@@ -24,6 +24,9 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.0.10 =
+* Updated to jStat 1.0.10
+
 = 1.0.4 =
 * Updated to jStat 0.0.4 (7-2014)
 
