@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: ramoonus
+Contributors: ramoonus, craig-ralston
 Donate link: http://www.ramoonus.nl/donate/
 Tags: jquery, statistics, javascript, stats, matlab, adopt-me
 Requires at least: 3.9
