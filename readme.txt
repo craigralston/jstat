@@ -23,6 +23,10 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.1 =
+* Load jStat in footer
+* Update dependencies
+
 = 1.0.10 =
 * Updated to jStat 1.0.10
 
