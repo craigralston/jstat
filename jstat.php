@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: jStat
-Plugin URI: http://www.ramoonus.nl/wordpress/jstat/
+Plugin URI: http://dakota-code.com/
 Description: This plugin installs jStat and required jQuery plugins to your installation.
 Version: 1.0.10
-Author: Ramoonus
-Author URI: http://www.ramoonus.nl/
+Author: Craig Ralston
+Author URI: http://dakota-code.com/
 License: GPL2
 */
 // Install jStat
