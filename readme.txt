@@ -2,8 +2,8 @@
 Contributors: craig-ralston
 Tags: jquery, statistics, javascript, stats, matlab
 Requires at least: 3.9
-Tested up to: 4.1
-Stable tag: 1.1
+Tested up to: 4.4.1
+Stable tag: 1.1.1
 
 This plugin installs jStat and required jQuery plugins to your installation.
 == Description ==
@@ -23,6 +23,9 @@ Its recommended to flush the cache after upgrading.
 Not relevant.
 
 == Changelog ==
+= 1.1.1 =
+* Testing for 4.4.2
+
 = 1.1 =
 * Load jStat in footer
 * Update dependencies
