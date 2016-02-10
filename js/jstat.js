@@ -1,5 +1,5 @@
 this.j$ = this.jStat = (function(Math, undefined) {
-
+ 
 // For quick reference.
 var concat = Array.prototype.concat;
 var slice = Array.prototype.slice;
